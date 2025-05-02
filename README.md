@@ -40,11 +40,6 @@ If you're just exploring the project:
 
 ---
 
-## 📸 Screenshots
-*Add gameplay screenshots here (optional)*
-
----
-
 ## 🔮 Future Improvements
 - Add score and timer system
 - Polish animations and transitions
