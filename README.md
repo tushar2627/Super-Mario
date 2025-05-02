@@ -40,6 +40,12 @@ If you're just exploring the project:
 
 ---
 
+## 📦 Downloads
+- [Download APK or ZIP](https://github.com/YourUsername/RepoName/releases/latest)  
+
+
+---
+
 ## 🔮 Future Improvements
 - Add score and timer system
 - Polish animations and transitions
