@@ -41,7 +41,7 @@ If you're just exploring the project:
 ---
 
 ## 📦 Downloads
-- [Download APK or ZIP](https://github.com/YourUsername/RepoName/releases/latest)  
+- [Download APK or ZIP]([https://github.com/YourUsername/RepoName/releases/latest](https://github.com/tushar2627/Super-Mario/releases/tag/v1.0))  
 
 
 ---
