@@ -58,7 +58,7 @@ Engage with enemies and interact with the environment.
 ### Menu Screen
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Super-Mario/blob/main/YourImageName.png" width="800"/>
+  <img src="https://github.com/tushar2627/Super-Mario/blob/main/Mario%201.png" width="800"/>
 </p>
 
 ### 🌃 Neon City Level
