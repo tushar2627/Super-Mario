@@ -1,57 +1,116 @@
-# 🍄 Mario-Inspired 2D Platformer
+# 🌃 Adventures of Mario – A Modern Neon Platformer
 
-A 2D platformer inspired by the classic Super Mario Bros., built in Unity. This project includes underground levels, enemy interactions, power-ups, and Android-friendly UI controls.
+**Adventures of Mario** is a fully developed 2D platformer built in Unity, inspired by the timeless mechanics of classic Mario games—now reimagined in a vibrant **neon-lit city environment**.
 
----
-
-## 🎮 Features
-- Pipe enter/exit mechanic with UI button
-- Underground level transition
-- Power-ups: Mushroom and Star
-- Pressure-sensitive jumping (keyboard + UI)
-- UI buttons for left, right, jump
-- Sound effects and star power logic
-- Multiple levels with scene transitions
+Blending nostalgic gameplay with a modern visual style, this project delivers smooth controls, engaging level design, and a polished mobile-friendly experience.
 
 ---
 
-## 🕹️ Controls
-- **Move**: Arrow keys or UI buttons
-- **Jump**: Spacebar or jump UI button
-- **Pipe**: Pipe UI button (works when Mario is standing on a pipe)
+## 🧩 Features
+
+✅ **Classic Platforming Gameplay**  
+Run, jump, and explore levels inspired by retro Mario mechanics.
+
+✅ **Neon City Visual Theme** 🌃  
+A modern twist with cyber-style backgrounds and vibrant environments.
+
+✅ **Pipe System Mechanics**  
+Seamless pipe enter/exit transitions between levels.
+
+✅ **Underground Level System**  
+Switch between overworld and underground environments.
+
+✅ **Power-Ups System**  
+- 🍄 Mushroom (Grow mechanic)  
+- ⭐ Star Power (Temporary invincibility)
+
+✅ **Responsive Controls (PC + Mobile)**  
+- Keyboard + UI-based touch controls  
+- Pressure-sensitive jumping system
+
+✅ **Enemy & Interaction System**  
+Engage with enemies and interact with the environment.
+
+✅ **Sound & Feedback System** 🔊  
+- Jump, power-up, and interaction sounds  
+- Star power audio logic implemented
+
+---
+
+## 🎮 Controls
+
+- **Move** → `Arrow Keys` or `On-Screen Buttons`  
+- **Jump** → `Spacebar` or `Jump Button`  
+- **Pipe Interaction** → `Pipe Button` (when standing on pipe)
 
 ---
 
 ## 📱 Platform
-- Developed with **Unity 2D**
-- Tested on **Android** and **PC**
+
+- 🎮 **Engine:** Unity 2021 / 2022  
+- 📲 **Platform:** Android (APK Available)  
+- 🖥️ **Also Playable in Unity Editor (PC)**  
 
 ---
 
-## 🚀 How to Run
-If you're just exploring the project:
+## 📸 Screenshots
 
--✅ This game is complete and ready to play.
--📱 If you have the APK, install it directly on your Android device.
--💻 If you're a developer and want to explore the code:
-   1. Open the project in Unity 2021.3 LTS or newer
-   2. Open the main scene from the Scenes folder
-   3. Press Play to preview in the editor
+### 🌃 Neon City Level
 
----
+<p align="center">
+  <img src="https://github.com/tushar2627/Super-Mario/blob/main/YourImageName.png" width="800"/>
+</p>
 
-## 📦 Downloads
-- [Download APK or ZIP](https://github.com/tushar2627/Super-Mario/releases/tag/v1.0)  
-
+*(Add more screenshots like underground level, power-ups, UI, etc.)*
 
 ---
 
-## 🔮 Future Improvements
-- Add score and timer system
-- Polish animations and transitions
-- Add more enemies and levels
+## 📥 Download & Play
+
+- [Download APK or ZIP](https://github.com/tushar2627/Super-Mario/releases/tag/v1.0)
+
+> 📌 APK is ready for Android devices. Unity project files are included for learning and development.
+
+---
+
+## 🚀 How to Run (For Developers)
+
+1. Clone or download the repository  
+2. Open in **Unity 2021.3 LTS** or newer  
+3. Open the main scene from the `Scenes` folder  
+4. Press **Play** in Unity  
+
+---
+
+## 🔮 Future Scope
+
+- Add score and timer system  
+- Introduce more enemy types  
+- Expand levels and environments  
+- Improve animations and visual polish  
+
+---
+
+## ❤️ Credits
+
+- Developed by: [Tushar Saxena](https://github.com/tushar2627)  
+- Game Engine: Unity  
+- Inspiration: Classic Mario Platformers  
+- Assets: Custom + Public Domain  
+
+---
+
+## ⭐ Support
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub!
 
 ---
 
 ## 📩 Contact
-Connect with me via GitHub or Internshala for feedback or opportunities.
+
+📧 Email: saxenatushar301@gmail.com  
+🐙 GitHub: https://github.com/tushar2627  
+
+---
+
+**“A classic adventure reborn in a neon world.”** 🌃🍄
